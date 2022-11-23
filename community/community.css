@@ -1,0 +1,25 @@
+
+.pa1{
+    display: inline-block;
+    width: 40%;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+text-align: left;
+}
+.pa2{
+    display: inline-block;
+    width: 50%;
+}
+.button{
+    background: linear-gradient(89.94deg, #075BFF 0.04%, rgba(255, 43, 208, 0.424021) 175.49%);
+border-radius: 5px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+border: 0px;
+color: white;
+padding: 7px;
+}
